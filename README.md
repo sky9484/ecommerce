@@ -8,4 +8,3 @@ password : Dandan123
 
 
 1. please copy to db_ecommerce to the database first to phpmyadmin
-
